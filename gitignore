@@ -1,0 +1,17 @@
+# Environment variables — never commit real keys
+.env
+
+# ChromaDB vector store — rebuild with seed_rag.py
+chroma_db/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
