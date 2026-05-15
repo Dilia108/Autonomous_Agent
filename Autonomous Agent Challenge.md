@@ -9,6 +9,8 @@
 
 The Supplier & Vendor Risk Monitor is an autonomous research agent that continuously watches a configured list of vendors, detects risk signals from live news and internal contract documents, classifies severity, and proactively alerts the procurement team — without waiting to be asked.
 
+For this particular project, I'll be focusing on the Aerospace Industry.
+
 This project is built on **Option B: Research Assistant**, extended with three capabilities that elevate it to a fully autonomous monitoring agent:
 
 | Layer | Description |
